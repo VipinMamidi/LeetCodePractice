@@ -13,4 +13,4 @@
 
 Problems Covered    |  Technique Used
 -----------------   |  ---------------
-26, 27              |   Two Pointers
+26, 27, 283         |   Two Pointers
