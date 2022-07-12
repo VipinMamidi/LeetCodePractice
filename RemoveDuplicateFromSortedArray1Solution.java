@@ -1,7 +1,7 @@
 // 26, Remove Duplicate From Sorted Array - I
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 // Time Complexity : O(n), As we parse through the whole Array
-// Space Complexity : O(1), we didn't create any extra space, so O(1)
+// Space Complexity :  O(1), we didn't create any extra space, so O(1)
 // Technique Used: Two Pointers
 // Did this code successfully run on Leetcode for the First time: Yes
 // Did you get the logic without checking the solution: Yes
