@@ -1,5 +1,5 @@
 * Problem Name: 
-* Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+* Link: 
 * Time Complexity : 
 * Space Complexity : 
 * Technique Used: 
@@ -13,4 +13,4 @@
 
 Problems Covered    |  Technique Used
 -----------------   |  ---------------
-26                  |   Two Pointers
+26, 27              |   Two Pointers
